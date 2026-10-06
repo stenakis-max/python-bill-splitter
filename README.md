@@ -19,4 +19,7 @@ This project was built as part of my Python programming learning journey to prac
 * **Built-in Functions:** Displaying outputs with `print()` and handling decimals with `round()`.
 
 ## 🛠️ How to Run
-Make sure you have Python installed on your computer
+Ensure you have Python installed on your local system, then run:
+```bash
+python main.py
+```
